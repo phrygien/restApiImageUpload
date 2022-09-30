@@ -184,5 +184,4 @@ class ProductController extends Controller
             'message' => "Produit bien supprimé."
         ],200);
     }
-    }
 }
